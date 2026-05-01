@@ -110,6 +110,14 @@ pytest tests/ -v
 
 ---
 
+## Insights
+
+**PSxG-GA is the headline metric:** Ellie Roebuck (+0.82) and Jan Oblak are the standout outperformers in the dataset
+**Sweeper p90 differentiates GK styles clearly:** high sweeper rate (Martínez at 1.78) signals a libero-type GK vs a line-keeper
+**Pass completion % alone is misleading without long ball % alongside it:** a GK with 90% completion who never plays long is a very different profile to one with 70% completion and 60% long ball rate
+
+---
+
 ## Tech stack
 
 - **Data** — `statsbombpy`, DuckDB, pandas
