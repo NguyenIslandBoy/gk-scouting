@@ -4,6 +4,10 @@ A goalkeeper recruitment and profiling dashboard built on StatsBomb open data. D
 
 ![CI](https://github.com/NguyenIslandBoy/gk-scouting/actions/workflows/ci.yml/badge.svg)
 
+![Alt text](sample_dashboard\shortlist.png)
+
+![Alt text](sample_dashboard\player_profile.png)
+
 ---
 
 ## What it does
