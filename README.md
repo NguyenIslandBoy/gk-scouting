@@ -2,7 +2,7 @@
 
 A goalkeeper recruitment and profiling dashboard built on StatsBomb open data. Designed to mirror the two-step workflow used by real scouting departments: identify candidates from the market, then deep-dive any individual player with visual evidence.
 
-![CI](https://github.com/NguyenIslandBoy/gk-scout/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/NguyenIslandBoy/gk-scouting/actions/workflows/ci.yml/badge.svg)
 
 ---
 
